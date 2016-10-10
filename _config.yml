@@ -4,7 +4,7 @@ title: kimt583
 email: kimt583@newschool.edu
 description: > # this means to ignore newlines until "baseurl:"
   Labradora amável, brincalhona e esfomiada, mas que acima de tudo, feliz! <a href="#">@charlotte</a>
-baseurl: "/instruction_set" # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url:  "http://kimt583.github.io"
 logo: "/assets/img/logo.png"
 
